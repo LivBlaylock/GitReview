@@ -8,7 +8,7 @@ public class Homework2 {
 		// Write a program that asks user to enter his/her username and password 
 		//until user enters them correctly.
 		
-		//let us suppose that the real username and password are these: 
+		//let us suppose that the real user and password are these: 
 		String dbUser = "user";
 		String dbPassword = "password";
 		
